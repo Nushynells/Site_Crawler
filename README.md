@@ -1,2 +1,2 @@
 # Site_Crawler
-This code crawls through the given websites to look for given keywords
+This code crawls through the given websites to provide links ofgiven keywords
